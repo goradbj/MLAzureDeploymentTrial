@@ -1,1 +1,1 @@
-# MLAzureDeploymentTrial
+# AzureDeployment
